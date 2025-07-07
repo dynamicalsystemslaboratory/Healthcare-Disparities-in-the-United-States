@@ -27,6 +27,7 @@ The folders and files are:
 ** per capita health encounters (_vol_per_capita_mean_) **
 
 5. **Data**: a list of datasets and zipped shapefiles.
-- _Specialty_Count_cbsa.csv_: city-level count of specialties 
+- _Specialty_Count_cbsa.csv_: city-level count of specialties
+- _SpecialtyCount_Secondary.csv_: city-level count of specialties as primary specialty or secondary specialty
 - _SCALING_RESULT.csv_: results for 75 medical specialties
 
