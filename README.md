@@ -21,10 +21,10 @@ The folders and files are:
 
 3. **Data**: a list of datasets and zipped shapefiles.
 - _patient_data.csv_: city-level patient data includes:
-** number of healthcare spending (_spend_mean_) **
-** per capita healthcare spending (_spend_per_capita_mean_) **
-** number of health encounters (_vol_mean_) **
-** per capita health encounters (_vol_per_capita_mean_) **
+** number of healthcare spending (_spend_mean_) **//
+** per capita healthcare spending (_spend_per_capita_mean_) **//
+** number of health encounters (_vol_mean_) **//
+** per capita health encounters (_vol_per_capita_mean_) **//
 - _Specialty_Count_cbsa.csv_: city-level count of specialties 
 - _SCALING_RESULT.csv_: results for 75 medical specialties
 
