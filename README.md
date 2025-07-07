@@ -19,12 +19,14 @@ The folders and files are:
 - funtion _f_oneway_ outputs statistical results of one way ANOVA
 - function _pairwise_tukeyhsd_ post-hoc comparisons using tukey's HSD test
 
-3. **Data**: a list of datasets and zipped shapefiles.
-- _patient_data.csv_: city-level patient data includes:
+3. **data_preprocessing.ipynb**: a .ipynb file includes the codes to preprocess patient data
+- output dataframe _cbsa_new_
 ** number of healthcare spending (_spend_mean_) **
 ** per capita healthcare spending (_spend_per_capita_mean_) **
 ** number of health encounters (_vol_mean_) **
 ** per capita health encounters (_vol_per_capita_mean_) **
+
+5. **Data**: a list of datasets and zipped shapefiles.
 - _Specialty_Count_cbsa.csv_: city-level count of specialties 
 - _SCALING_RESULT.csv_: results for 75 medical specialties
 
